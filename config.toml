@@ -97,7 +97,7 @@ name = "Terms"
 url = "/terms/"
 weight = 2
 
-# Socail icons
+# Social icons
 [[params.social]]
 icon = "ti-facebook"
 url = "https://www.facebook.com/hackerspacetrojmiasto"
